@@ -2,4 +2,5 @@
 
 ```
 git clone https://github.com/rzadrzi/todo-cli/
+make build
 ```
